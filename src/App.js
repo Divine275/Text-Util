@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import TextForm from './components/textForm';
 import Alert from './components/Alert';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route
 } from "react-router-dom";
