@@ -6,6 +6,6 @@
 
 #
 
-![Preview-1](public\PreviewImages\preview-1.png "Light Mode Preview")
+![Preview-1](public/PreviewImages/preview-1.png "Light Mode Preview")
 
-![Preview-2](public\PreviewImages\preview-2.png "Dark Mode Preview")
+![Preview-2](public/PreviewImages/preview-2.png "Dark Mode Preview")
